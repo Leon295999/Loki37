@@ -20,7 +20,7 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0001-5468-1030"
   doi: "10.1007/s41109-021-00374-7"
   journal: "Applied Network Science"
-  month: 9
+  month: 12
   start: 1 # First page number
   end: 31 # Last page number
   title: "Trajectories through temporal networks"
